@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Parisienne');
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+
+h1{
+  font-family: 'Parisienne', cursive;
+  font-size: 60;
+  text-align: center;
+}
+p{
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 20;
+}
+button {
+  font-family: 'Parisienne', cursive;
+  font-size: 30;
+  
+}
