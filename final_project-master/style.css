@@ -5,6 +5,8 @@ h1{
   font-family: 'Parisienne', cursive;
   font-size: 60;
   text-align: center;
+  color:white;
+
 }
 p{
   font-family: 'Didact Gothic', sans-serif;
@@ -13,5 +15,13 @@ p{
 button {
   font-family: 'Parisienne', cursive;
   font-size: 30;
-  
+
+}
+
+#title{
+  background:url("https://crashmacduff.files.wordpress.com/2015/03/7liliy08.jpg");
+  background-repeat: no-repeat;
+  padding-bottom:30px;
+  padding-top: 30px;
+
 }
