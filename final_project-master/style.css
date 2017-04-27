@@ -24,8 +24,16 @@ button {
   background-repeat: no-repeat;
   padding-bottom:30px;
   padding-top: 30px;
-  opacity:0.7;
+  opacity:0.8;
 }
 body{
-  background-color: 	#FFFACD	;
+  background-color:#E6E6FA;
+}
+#vangogh{
+  background:url("http://static.boredpanda.com/blog/wp-content/uploads/2016/02/loving-vincent-vangogh-animated-oil-painting-movie-breakthru-trademark-films-fb__700-png.jpg");
+  background-repeat: no-repeat;
+  background-size:  100% auto;
+  padding-bottom:30px;
+  padding-top: 30px;
+  opacity:0.8;
 }
