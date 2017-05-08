@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Parisienne');
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
-
+@import url('https://fonts.googleapis.com/css?family=Neucha');
+@import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
 h1{
   font-family: 'Parisienne', cursive;
   font-size: 60;
@@ -8,10 +9,7 @@ h1{
   color:white;
 
 }
-p{
-  font-family: 'Didact Gothic', sans-serif;
-  font-size: 20;
-}
+
 button {
   font-family: 'Parisienne', cursive;
   font-size: 30;
@@ -36,4 +34,64 @@ body{
   padding-bottom:30px;
   padding-top: 30px;
   opacity:0.8;
+}
+#monet{
+  background:url("http://vsemart.com/wp-content/uploads/2015/03/Young-Girl-in-the-Garden-at-Giverny-Claude-Monet.jpg");
+  background-repeat: no-repeat;
+  background-size:  100% auto;
+  padding-bottom:30px;
+  padding-top: 30px;
+  opacity:0.8;
+  font-size: 20px;
+
+}
+#mich{
+  background:url("https://learnodo-newtonic.com/wp-content/uploads/2014/08/The-Creation-of-Adam-1512-Michelangelo.jpg");
+  background-repeat: no-repeat;
+  background-size:  100% auto;
+  padding-bottom:30px;
+  padding-top: 30px;
+  opacity:0.8;
+}
+
+#da{
+  background:url("http://mrnussbaum.com/images/da_vinci3.jpg");
+  background-repeat: no-repeat;
+  background-size:  100% auto;
+  padding-bottom:30px;
+  padding-top: 30px;
+  opacity:0.8;
+}
+#ra{
+  background:url("http://idealinthewest.com/wp-content/uploads/2011/10/BotticelliVenus.jpg");
+  background-repeat: no-repeat;
+  background-size:  100% auto;
+  padding-bottom:30px;
+  padding-top: 30px;
+  opacity:0.7;
+
+}
+#pi{
+  background:url("http://www.sherryfowler.org/wp-content/uploads/2013/11/The-Old-Guitarist-by-Pablo-Picasso-OSA298.jpg");
+  background-repeat: no-repeat;
+  background-size:  100% auto;
+  padding-bottom:30px;
+  padding-top: 30px;
+  opacity:0.7;
+
+}
+
+#piti{
+  text-align: center;
+  font-family:'Love Ya Like A Sister', cursive;
+  font-size: 30;
+
+}
+#piwork{
+  font-family:'Neucha', cursive;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom:30px;
+
 }
