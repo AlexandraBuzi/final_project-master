@@ -1,7 +1,14 @@
 var namespace = "http://www.w3.org/2000/svg"
 
 // Write your code here!
+function moc(){
+  document.getElementById("cmonet").setAttribute("style","display:block;")
 
+}
+function papic(){
+  document.getElementById("ppc").setAttribute("style","display:block;")
+  // document.
+}
 
 
 
