@@ -10,6 +10,18 @@ function papic(){
   // document.
 }
 
+function vgh(){
+  document.getElementById("vano").setAttribute("style","display:block;")
+}
+
+function mc(){
+  document.getElementById("loverboy").setAttribute("style","display:block;")
+}
+
+function ven(){
+  document.getElementById("girls").setAttribute("style","display:block;")
+}
+
 
 
 
