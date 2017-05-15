@@ -3,23 +3,42 @@ var namespace = "http://www.w3.org/2000/svg"
 // Write your code here!
 function moc(){
   document.getElementById("cmonet").setAttribute("style","display:block;")
-
+  document.getElementById("ppc").setAttribute("style","display:none;")
+  document.getElementById("vano").setAttribute("style","display:none;")
+  document.getElementById("loverboy").setAttribute("style","display:none;")
+  document.getElementById("girls").setAttribute("style","display:none;")
 }
 function papic(){
   document.getElementById("ppc").setAttribute("style","display:block;")
+  document.getElementById("cmonet").setAttribute("style","display:none;")
+  document.getElementById("vano").setAttribute("style","display:none;")
+  document.getElementById("loverboy").setAttribute("style","display:none;")
+  document.getElementById("girls").setAttribute("style","display:none;")
   // document.
 }
 
 function vgh(){
   document.getElementById("vano").setAttribute("style","display:block;")
+  document.getElementById("cmonet").setAttribute("style","display:none;")
+  document.getElementById("loverboy").setAttribute("style","display:none;")
+  document.getElementById("girls").setAttribute("style","display:none;")
+  document.getElementById("ppc").setAttribute("style","display:none;")
 }
 
 function mc(){
   document.getElementById("loverboy").setAttribute("style","display:block;")
+  document.getElementById("cmonet").setAttribute("style","display:none;")
+  document.getElementById("vano").setAttribute("style","display:none;")
+  document.getElementById("girls").setAttribute("style","display:none;")
+  document.getElementById("ppc").setAttribute("style","display:none;")
 }
 
 function ven(){
   document.getElementById("girls").setAttribute("style","display:block;")
+  document.getElementById("cmonet").setAttribute("style","display:none;")
+  document.getElementById("vano").setAttribute("style","display:none;")
+  document.getElementById("loverboy").setAttribute("style","display:none;")
+  document.getElementById("ppc").setAttribute("style","display:none;")
 }
 
 
