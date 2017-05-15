@@ -99,7 +99,7 @@ body{
 }
 #cm{
   text-align: center;
-  font-family:'Satisfy', cursive;;
+  font-family:'Satisfy', cursive;
   font-size: 30;
 
 }
@@ -109,5 +109,9 @@ body{
   padding-left: 50px;
   padding-top: 30px;
   padding-bottom:30px;
+
+}
+#nyeh{
+  font-family:'Satisfy', cursive;;
 
 }
