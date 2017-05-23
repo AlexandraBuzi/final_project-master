@@ -6,6 +6,7 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
 @import url('https://fonts.googleapis.com/css?family=Metamorphous');
 @import url('https://fonts.googleapis.com/css?family=Diplomata');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
 h1{
   font-family: 'Parisienne', cursive;
   font-size: 60;
@@ -132,4 +133,11 @@ body{
   font-family: 'Diplomata', cursive;
   font-size: 30;
 
+}
+#kms{
+  font-family:'Crimson Text', serif;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom:30px;
 }
